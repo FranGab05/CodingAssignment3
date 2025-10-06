@@ -1,0 +1,49 @@
+body{
+    background: rgb(162, 212, 229);   
+}
+
+/* Headings
+-----------------------*/
+h1,h2,h3,h4,h5 {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color:saddlebrown 
+    /*font-weight:bold; */    
+    
+}
+
+/*link for image
+--------------------*/
+figure{
+    color:rgb(70, 102, 43)
+}
+
+/* Divider at the bottom
+------------------------*/
+p{
+    color:rgb(8, 28, 173);
+}
+
+/*Lists ingredients
+--------------------*/
+li{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:rgba(73, 18, 37, 0.814);
+}
+/*Directions
+-----------------*/
+ul{
+    color:darkblue;
+}
+
+/*Rate this recipe
+-----------------------*/
+fieldset{
+    color:rgb(136, 11, 122);
+}
+
+/*Beginning
+-------------------*/
+
+
+  
+  
